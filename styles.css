@@ -91,4 +91,11 @@ footer {
         margin-right: auto;
         width: 80%;
     }
+    .bold-title{
+        font-size: 1.75rem;
+    }
+
+    .regular-text{
+        font-size: 1.25rem;
+    }
 }
