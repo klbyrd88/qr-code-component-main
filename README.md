@@ -35,5 +35,5 @@ I want to continue to work with CSS and HTML.  I have done small projects but th
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/klbyrd88)
-- Twitter - [@yourusername](https://twitter.com/klb0323)
+- Frontend Mentor - [@klbyrd88](https://www.frontendmentor.io/profile/klbyrd88)
+- Twitter - [@klb0323](https://twitter.com/klb0323)
