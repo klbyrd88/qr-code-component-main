@@ -34,8 +34,8 @@ body{
 
 .bold-title{
     font-weight: 700;
-    font-size: 1.5rem;
-    width: 90%;
+    font-size: 1.25rem;
+    width: 100%;
     margin: auto;
     margin-bottom: .75rem;
 }
@@ -43,7 +43,7 @@ body{
 .regular-text{
     color: hsl(220, 15%, 55%);
     font-size: 15px;
-    width: 80%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 3rem;
@@ -65,6 +65,11 @@ footer {
         margin-top: 4rem;
         margin-left:auto;
         margin-right: auto;
+        height: 700px;
+    }
+
+    #qr-code{
+        width: 80%;
     }
 
     .bold-title{
