@@ -53,31 +53,32 @@ footer {
     font-size: .75rem;
 }
 
-@media only screen and (min-width: 800px){
+@media only screen and (min-width: 1000px){
     body{
         margin: auto;
-        width: 30%;
+        width: 80%;
         text-align: center;
         padding: .5rem;
     }
 
     .container{
-        margin-top: 4rem;
+        margin-top: 5rem;
         margin-left:auto;
         margin-right: auto;
-        height: 700px;
+        height: 900px;
     }
 
     #qr-code{
-        width: 80%;
+        margin-top: 2rem;
+        width: 85%;
     }
 
     .bold-title{
-        font-size: 2rem;
+        font-size: 3rem;
     }
 
     .regular-text{
-        font-size: 1.2rem;
+        font-size: 2.25rem;
     }
 }
 
